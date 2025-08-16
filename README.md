@@ -141,3 +141,4 @@ This is the recommended approach for continuous integration and deployment. Clou
 This setup provides a solid foundation for a CI/CD project on GCP that you can use for your demonstration.
 
 sample change
+adding this line to trigger CI
